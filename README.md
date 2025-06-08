@@ -1,16 +1,6 @@
 # Portfolio Website
 ( https://www.youtube.com/watch?v=gWVIIU1ev0Y&t=5s ) .  
 
-   ,     #_
-   ~\_  ####_        Amazon Linux 2023
-  ~~  \_#####\
-  ~~     \###|
-  ~~       \#/ ___   https://aws.amazon.com/linux/amazon-linux-2023
-   ~~       V~' '->
-    ~~~         /
-      ~~._.   _/
-         _/ _/
-       _/m/'
 [ec2-user@ip-172-31-0-187 ~]$ sudo su -
 [root@ip-172-31-0-187 ~]# yum update -y
 Amazon Linux 2023 Kernel Livepatch repository                                                                                          123 kB/s |  16 kB     00:00    
